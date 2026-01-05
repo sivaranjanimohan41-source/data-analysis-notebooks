@@ -1,4 +1,4 @@
-# data-analysis-notebooks
+# Data-Analysis-Notebooks
 Data analysis project showcasing pandas groupby operations and statistical analysis in Jupyter Notebook.
 # Weather Data Analysis
 
